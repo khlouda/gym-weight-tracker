@@ -1,8 +1,8 @@
 import React from 'react'
-import { House, Dumbbell, CalendarDays } from 'lucide-react'
+import { Home, Dumbbell, CalendarDays } from 'lucide-react'
 
 const TABS = [
-  { id: 'home', label: 'Today',     Icon: House },
+  { id: 'home', label: 'Today',     Icon: Home },
   { id: 'log',  label: 'Exercises', Icon: Dumbbell },
   { id: 'plan', label: 'Plan',      Icon: CalendarDays },
 ]
